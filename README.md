@@ -117,6 +117,7 @@ NOTE 2: Soon, I plan to remove all links that deal with Angular 1.0 or 1.1. All 
 * [**AngularJS Tutorial - Learn AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
 * [AngularJS Tutorial - W3Schools](http://www.w3schools.com/angular/default.asp)
 * [Building Mobile Apps With the Ionic Framework and AngularJS] (https://www.pluralsight.com/courses/building-mobile-apps-ionic-framework-angularjs)
+* [AngularJS tutorial](https://hackr.io/tutorials/learn-angular)3 - Learn AngularJS, Angular 2, Angular 4 or Angular 5 from the best online Angular tutorials and courses submitted & voted by the programming community.
 * [Code School Shaping Up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 * [Codecademy AngularJs](https://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1)
 * [Coursera: Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs)
